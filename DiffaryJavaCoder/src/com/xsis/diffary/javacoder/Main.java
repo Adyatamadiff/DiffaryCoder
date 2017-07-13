@@ -19,12 +19,12 @@ public class Main {
 	}
 
 	// Casting
-	Employee a = new Manager();
-	Manager b = (Manager) new Employee();
-
+	/*Employee a = new Manager();
+	Manager b = (Manager) new Employee();*/
+	
 	// Parse
-	String anu = "21";
-	Integer ab = Integer.parseInt(anu);
+	/*String anu = "21";
+	Integer ab = Integer.parseInt(anu);*/
 
 	public static void main(String[] args) {
 		// Encapsulation
